@@ -6,13 +6,14 @@ body {
     background: linear-gradient(to right, #c300ff, #50a6f7);
 }
 
-h1 {
+h1, h2, h3 {
     color: #fff;
 }
 
-p {
+ul {
     font-size: 18px;
     color: #fff;
+    list-style-type: none;
 }
 
 button {
