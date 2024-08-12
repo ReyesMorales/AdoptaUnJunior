@@ -1,33 +1,36 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #f0f0f0;
+    background-color: #c300ff;
     text-align: center;
     padding: 20px;
+    background: linear-gradient(to right, #c300ff, #50a6f7);
 }
 
 h1 {
-    color: #333;
+    color: #fff;
 }
 
 p {
     font-size: 18px;
-    color: #555;
+    color: #fff;
 }
 
 button {
     padding: 10px 20px;
     font-size: 16px;
-    color: #fff;
-    background-color: #007bff;
+    font-weight: bold;
+    color: #c300ff;
+    background-color: #fff;
     border: none;
     border-radius: 5px;
     cursor: pointer;
-    margin-top: 20px; /* Espacio superior para separar el botón del texto */
+    margin-top: 20px;
     transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
 button:hover {
-    background-color: #0056b3;
+    color: #fff;
+    background-color: #5ca6eb;
 }
 
 button:active {
