@@ -16,6 +16,16 @@ ul {
     list-style-type: none;
 }
 
+p {
+    font-size: 18px;
+    color: #fff;
+    font-style: italic;
+}
+
+h3, li, p {
+    text-align: left;
+}
+
 button {
     padding: 10px 20px;
     font-size: 16px;
