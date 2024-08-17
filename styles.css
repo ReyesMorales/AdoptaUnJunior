@@ -4,6 +4,41 @@ body {
     text-align: center;
     padding: 20px;
     background: linear-gradient(to right, #c300ff, #50a6f7);
+    margin: 0;
+}
+
+nav {
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    top: 0;
+    right: 0;
+    z-index: 1000;
+    text-align: end;
+}
+
+nav a {
+    color: #fff;
+    margin: 0 15px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 10px 15px; 
+    display: inline-block; 
+    transition: background-color 0.3s ease, color 0.3s ease;
+    border-radius: 5px;
+    background-color: transparent; 
+}
+
+nav a:hover {
+    color: #5ca6eb; 
+    background-color: #fff;
+    border-radius: 5px; 
+}
+
+section {
+    margin-top: 80px; 
+    padding: 20px;
 }
 
 h1, h2, h3 {
