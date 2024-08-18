@@ -5,7 +5,7 @@ Gracias por tu interés en contribuir en mi proyecto de AdoptaUnJunior. Aquí te
 ## Cómo Contribuir
 
 1. **Revisa las Issues**: Ve a la pestaña [Issues](https://github.com/ReyesMorales/AdoptaUnJunior/issues) para ver las diferentes tareas creadas y colaborar en la que más te apetezca.
-2. **Fork y Clonación**: Haz un fork del repositorio y clónalo en tu máquina local.
+2. **Fork y Clonación**: Haz un fork del repositorio o clónalo en tu máquina local.
 3. **Crea una Nueva Rama**: Crea una nueva rama para trabajar en tus cambios. 
 4. **Prueba y Verifica**: Asegúrate de que tus cambios funcionan como se espera.
 5. **Haz un Commit**: Realiza un commit con un mensaje claro y descriptivo sobre los cambios realizados.
