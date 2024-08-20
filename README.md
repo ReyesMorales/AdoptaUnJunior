@@ -5,11 +5,13 @@ Este es un pequeño proyecto web creado con HTML, CSS y JavaScript que busca mos
 
 ## Equema
 
+```
 ├── index.html
 ├── styles.css
 ├── script.js
 ├── README.md
 └── CONTRIBUTING.md
+```
 
 
 ### Mejoras Implementadas
@@ -19,12 +21,12 @@ Este proyecto ha evolucionado a través de la implementación de dos mejoras cla
 1. **Animación de Entrada para Títulos (Issue #1)**
    - Se ha añadido una animación suave de entrada para los títulos `h1`, `h2`, y `h3` que se ejecuta al cargar la página. Esta animación mejora la experiencia visual al darle un toque dinámico a la presentación de los contenidos.
    - **Pull Request:** [Añadir animación de entrada](https://github.com/ReyesMorales/AdoptaUnJunior/pull/7)
-   - **Colaboradores:** [marta-vilasecca]
+   - **Colaboradores:** [marta-vilasecca](https://github.com/marta-vilaseca)
 
 2. **Modo Oscuro (Issue #2)**
    - Se implementó un modo oscuro accesible para la página, activado mediante un botón en la barra de navegación. Este cambio mejora la accesibilidad y la usabilidad de la página en diferentes condiciones de luz.
    - **Pull Request:** [Añadir Modo Oscuro](https://github.com/ReyesMorales/AdoptaUnJunior/pull/6) 
-   - **Colaboradores:** [Kurtko10]
+   - **Colaboradores:** [Kurtko10](https://github.com/Kurtko10)
 
 
 ## Tecnologías Utilizadas
@@ -33,7 +35,7 @@ Este proyecto ha evolucionado a través de la implementación de dos mejoras cla
 - **CSS3:** Para el diseño visual, incluyendo flexbox, gradientes, animaciones y la funcionalidad de modo oscuro.
 - **JavaScript:** Para la interactividad, como el modo oscuro, la animación emergente, y los efectos `hover`.
 
-## ¿Por Qué Deberías Seleccionarme para los Grupos de Trabajo de Frontend?
+## ¿Por qué deberían seleccionarme para los Grupos de Trabajo de Frontend?
 
 **Ganas de colaborar y crecer:** Me encanta trabajar en equipo y aprender de los demás. Estoy segura de que puedo aportar valor a los grupos de trabajo de Frontend, al tiempo que adquiero nuevas habilidades y experiencias.
 
