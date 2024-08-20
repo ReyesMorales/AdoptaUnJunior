@@ -151,3 +151,39 @@ button:active {
     transform: translate(-50%, -50%) scale(0.9);
   }
 }
+
+body.dark-mode {
+    background: linear-gradient(to right, #121212, #333);
+    color: #e0e0e0;
+}
+
+nav.dark-mode a {
+    color: #e0e0e0;
+    background-color: transparent;
+}
+
+nav.dark-mode a:hover {
+    color: #c300ff;
+    
+}
+
+h1.dark-mode, h2.dark-mode, h3.dark-mode, ul.dark-mode, p.dark-mode {
+    color: #e0e0e0;
+}
+
+button.dark-mode {
+    color: #000000;
+    background-color: #7c7c7c;
+}
+
+button.dark-mode:hover {
+    color: #e0e0e0;
+    background-color: #c300ff;
+}
+
+.message-popup.dark-mode {
+    background-color: #333;
+    color: #e0e0e0;
+}
+
+
