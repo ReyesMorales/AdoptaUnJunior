@@ -13,6 +13,7 @@
         <a href="#inicio">Inicio</a>
         <a href="#sobre-mi">Sobre mí</a>
         <a href="#stack">Stack</a>
+        <a href="#comentarios">Comentarios</a>
         <button id="darkModeButton">Modo Oscuro</button>
     </nav>
 
@@ -71,6 +72,26 @@
             <li><span class="icon material-icons">check_box</span>SQL</li>
             <li><span class="icon material-icons">check_box</span>MongoDB</li>
           </ul>
+        </div>
+      </div>
+    </section>
+
+    <section id="comentarios">
+      <h2>Comentarios</h2>
+      <form id="formularioComentarios">
+        <label for="nombre">Nombre:</label>
+        <input type="text" id="nombre" name="nombre" required><br><br>
+        
+        <label for="mensaje">Mensaje:</label>
+        <textarea id="mensaje" name="mensaje" required></textarea><br><br>
+        
+        <button type="submit">Enviar comentario</button>
+      </form>
+      
+      <div id="seccionComentarios">
+        <h3>Comentarios Recientes</h3>
+        <div id="listaComentarios">
+          <!-- Los comentarios aparecerán aquí -->
         </div>
       </div>
     </section>
