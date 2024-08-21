@@ -75,28 +75,36 @@
         </div>
       </div>
     </section>
-
-    <section id="comentarios">
-      <h2>Comentarios</h2>
-      <form id="formularioComentarios">
-        <label for="nombre">Nombre:</label>
-        <input type="text" id="nombre" name="nombre" required><br><br>
-
-        <label for="email">Correo electrónico:</label>
-        <input type="email" id="email" name="email" required><br><br>
-        
-        <label for="mensaje">Mensaje:</label>
-        <textarea id="mensaje" name="mensaje" required></textarea><br><br>
-        
-        <button type="submit">Enviar comentario</button>
+    
+    <!-- Formulario para comentarios -->
+    <section class="container">  
+      <form id="comments" action="" method="post">
+        <h3>Comentarios</h3>
+    
+        <fieldset>
+          <label for="name"></label>
+          <input placeholder="Introduce tu nombre" type="text" id="name" name="name" tabindex="1" required autofocus>
+        </fieldset>
+    
+        <fieldset>
+          <label for="email"></label>
+          <input placeholder="Introduce tu email" type="email" id="email" name="email" tabindex="2" required>
+        </fieldset>
+    
+        <fieldset>
+          <label for="comentario"></label>
+          <textarea placeholder="Deja tu comentario..." id="comment" name="comentario" tabindex="3" required></textarea>
+        </fieldset>
+    
+        <fieldset>
+          <button name="submit" type="submit" id="commentus-submit" data-submit="send">Enviar comentario</button>
+        </fieldset>
+    
       </form>
-      
-      <div id="seccionComentarios">
-        <h3>Comentarios Recientes</h3>
-        <div id="listaComentarios">
-          <!-- Los comentarios aparecerán aquí -->
-        </div>
-      </div>
+    
+      <!-- Aquí se mostrarán los comentarios -->
+      <h3>Comentarios enviados:</h3>
+      <ul id="comment-list"></ul>
     </section>
 
     <script src="script.js"></script>

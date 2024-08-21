@@ -20,13 +20,24 @@ Este proyecto ha evolucionado a través de la implementación de dos mejoras cla
 
 1. **Animación de Entrada para Títulos (Issue #1)**
    - Se ha añadido una animación suave de entrada para los títulos `h1`, `h2`, y `h3` que se ejecuta al cargar la página. Esta animación mejora la experiencia visual al darle un toque dinámico a la presentación de los contenidos.
-   - **Pull Request:** [Añadir animación de entrada](https://github.com/ReyesMorales/AdoptaUnJunior/pull/7)
+   - **Pull Request:** [Añadir Animación de Entrada](https://github.com/ReyesMorales/AdoptaUnJunior/pull/7)
    - **Colaboradores:** [marta-vilasecca](https://github.com/marta-vilaseca)
 
 2. **Modo Oscuro (Issue #2)**
    - Se implementó un modo oscuro accesible para la página, activado mediante un botón en la barra de navegación. Este cambio mejora la accesibilidad y la usabilidad de la página en diferentes condiciones de luz.
    - **Pull Request:** [Añadir Modo Oscuro](https://github.com/ReyesMorales/AdoptaUnJunior/pull/6) 
    - **Colaboradores:** [Kurtko10](https://github.com/Kurtko10)
+
+3. **Sección de comentarios (Issue #3)**
+   - Se ha añadido una Sección de Comentarios, que permite dejar a los usuarios su nombre, email y un mensaje, mostrando los comentarios más recientes.
+   - Este issue tuvo la participación de 2 personas, teniendo que elegir uno de los PR para implementar en el proyecto.
+   - **Pull Request:** [Añadir Sección de comentarios](https://github.com/ReyesMorales/AdoptaUnJunior/pull/8)
+   - **Colaboradores:** [vdm285](https://github.com/vdm285)
+
+   - **Pull Request:** [Añadir Sección de comentarios](https://github.com/ReyesMorales/AdoptaUnJunior/pull/9)
+   - **Colaboradores:**[DavidMarin81](https://github.com/DavidMarin81)
+
+   Eligiendo finalmente la colaboración realizada en el PR #9 pero añadiendo una idea del PR#8.
 
 
 ## Tecnologías Utilizadas
