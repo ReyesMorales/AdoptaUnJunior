@@ -3,7 +3,7 @@ Bienvenidos a mi rincón del código: donde comienza mi viaje en el desarrollo F
 
 Este es un pequeño proyecto web creado con HTML, CSS y JavaScript que busca mostrar las razones por las que una desarrolladora junior (¡yo!) desea ser adoptada por la iniciativa de **AdoptaUnJunior**.
 
-## Equema
+## Esquema
 
 ```
 ├── index.html
