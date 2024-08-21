@@ -186,4 +186,25 @@ button.dark-mode:hover {
     color: #e0e0e0;
 }
 
+#comentarios {
+  margin-top: 50px;
+}
 
+#formularioComentarios {
+  margin-bottom: 20px;
+}
+
+#listaComentarios .comentario {
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+}
+
+#listaComentarios .comentario p {
+  margin: 0;
+  font-size: 16px;
+}
+
+#listaComentarios .comentario hr {
+  border: none;
+  border-top: 1px solid #ccc;
+}
