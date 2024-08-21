@@ -75,6 +75,37 @@
       </div>
     </section>
 
+    <!-- Formulario para comentarios -->
+    <section class="container">  
+      <form id="comments" action="" method="post">
+        <h3>Comentarios</h3>
+    
+        <fieldset>
+          <label for="name"></label>
+          <input placeholder="Introduce tu nombre" type="text" id="name" name="name" tabindex="1" required autofocus>
+        </fieldset>
+    
+        <fieldset>
+          <label for="email"></label>
+          <input placeholder="Introduce tu email" type="email" id="email" name="email" tabindex="2" required>
+        </fieldset>
+    
+        <fieldset>
+          <label for="comentario"></label>
+          <textarea placeholder="Deja tu comentario..." id="comment" name="comentario" tabindex="3" required></textarea>
+        </fieldset>
+    
+        <fieldset>
+          <button name="submit" type="submit" id="commentus-submit" data-submit="send">Enviar comentario</button>
+        </fieldset>
+    
+      </form>
+    
+      <!-- Aquí se mostrarán los comentarios -->
+      <h3>Comentarios enviados:</h3>
+      <ul id="comment-list"></ul>
+    </section>
+
     <script src="script.js"></script>
   </body>
 </html>
