@@ -43,3 +43,23 @@ document.addEventListener("DOMContentLoaded", function(){
     darkModeButton.onclick = toogleDarkMode;
 });
 
+// Formulario
+document.addEventListener("DOMContentLoaded", function() {
+    const form = document.getElementById('comments');
+    const commentList = document.getElementById('comment-list');
+  
+    form.addEventListener('submit', function(event) {
+      event.preventDefault(); // Evita que el formulario se envíe de la manera tradicional
+  
+      const name = document.getElementById('name').value;
+      const email = document.getElementById('email').value;
+      const comentario = document.getElementById('comment').value;
+  
+      const listItem = document.createElement('li');
+      listItem.innerHTML = `${name} (${email}) dice:<br>&nbsp;&nbsp;&nbsp;&nbsp;"${comentario}"`;
+  
+      commentList.appendChild(listItem);
+  
+      form.reset();
+    });
+});
