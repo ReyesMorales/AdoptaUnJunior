@@ -43,3 +43,34 @@ document.addEventListener("DOMContentLoaded", function(){
     darkModeButton.onclick = toogleDarkMode;
 });
 
+document.addEventListener("DOMContentLoaded", function () {
+    const formularioComentarios = document.getElementById("formularioComentarios");
+    const listaComentarios = document.getElementById("listaComentarios");
+  
+    formularioComentarios.addEventListener("submit", function (event) {
+      event.preventDefault();
+  
+      // Obtener los datos del formulario
+      const nombre = document.getElementById("nombre").value;
+      const mensaje = document.getElementById("mensaje").value;
+  
+      // Crear un nuevo elemento de comentario
+      const comentario = document.createElement("div");
+      comentario.classList.add("comentario");
+  
+      // Dar formato "Usuario: comentario"
+      const contenidoComentario = `
+        <p><strong>${nombre}:</strong> ${mensaje}</p>
+        <hr>
+      `;
+  
+      comentario.innerHTML = contenidoComentario;
+  
+      // Añadir el nuevo comentario al principio de la lista
+      listaComentarios.insertBefore(comentario, listaComentarios.firstChild);
+  
+      // Limpiar el formulario
+      formularioComentarios.reset();
+    });
+  });
+  
