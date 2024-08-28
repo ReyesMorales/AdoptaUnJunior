@@ -35,7 +35,7 @@ Este proyecto ha evolucionado a través de la implementación de dos mejoras cla
    - **Colaboradores:** [vdm285](https://github.com/vdm285)
 
    - **Pull Request:** [Añadir Sección de comentarios](https://github.com/ReyesMorales/AdoptaUnJunior/pull/9)
-   - **Colaboradores:**[DavidMarin81](https://github.com/DavidMarin81)
+   - **Colaboradores:** [DavidMarin81](https://github.com/DavidMarin81)
 
    Eligiendo finalmente la colaboración realizada en el PR #9 pero añadiendo una idea del PR#8.
 
@@ -48,13 +48,13 @@ Este proyecto ha evolucionado a través de la implementación de dos mejoras cla
 
 ## ¿Por qué deberían seleccionarme para los Grupos de Trabajo de Frontend?
 
-**Ganas de colaborar y crecer:** Me encanta trabajar en equipo y aprender de los demás. Estoy segura de que puedo aportar valor a los grupos de trabajo de Frontend, al tiempo que adquiero nuevas habilidades y experiencias.
+**Ganas de colaborar y crecer:** Me encanta trabajar en equipo y aprender de los demás. Estoy segura de que puedo aportar valor a los grupos de trabajo de Frontend, al tiempo que adquiero nuevas habilidades y experiencias de los compañeros.
 
 **Pasión por el Frontend:** Lo que realmente me entusiasma del desarrollo es la capacidad de transformar ideas en realidad. Me encanta ver cómo las ideas abstractas se convierten en interfaces dinámicas e interactivas que los usuarios pueden disfrutar.
 
 **Mentalidad de aprendizaje continuo:** Siempre estoy buscando formas de mejorar y aprender nuevas tecnologías. Aunque ya tengo experiencia con HTML, CSS, JavaScript y React, estoy abierta a aprender nuevas herramientas y frameworks que beneficien al proyecto.
 
-**Compromiso y perseverancia:** Como madre de mellizos, he aprendido a manejar múltiples responsabilidades a la vez. Este proyecto es una muestra de mi dedicación y capacidad para completar tareas, incluso en circunstancias desafiantes.
+**Compromiso y perseverancia:** La maternidad mucha veces lleva a pensar que no se puede dedicar tiempo a otras cosas, pero mi compromiso con el proyecto es total, y le robaré horas al reloj para cumplir con mi papel. Y es precisamente por mis hijos, que busco el equilibrio de trabajo y familia y por el que comencé este camino.
 
 **Motivación extra:** Me gustaría participar en un proyecto como éste, por la motivación extra que te aporta conocer e interactuar con personas nuevas que están en la misma tesitura de ser un junior, de sentarme con ganas de picar código con un propósito común y no únicamente para prácticar. Desde que empezó he estado atenta al Linkedin, buscando otros repositorios en GitHub, y eso me ha dado una chispa que no vivía desde el proyecto final, y me escojan o no, agradezco estos ratos que están siendo muy didácticos.
 
